@@ -1,114 +1,114 @@
 ﻿Date,Income,Expense,Category,Where,Payment Method,Measurement
-1-Apr-21,3000, ,income,online,netbank,primary,
-1-Apr-21,2000, ,income,online,netbank,tertiary,
-1-Apr-21,,39,"food, breakfast, drink water, expense",Seven-Eleven,cash,primary,
-1-Apr-21,,250,"education related fee, expense",online,cash,primary,
-1-Apr-21,,650,"music, expense",music shop,cash,tertiary,
-1-Apr-21,,40,"lunch, expense",restaurant,cash,primary,
-2-Apr-21,,39,"breakfast, expense",,cash,primary,
-2-Apr-21,,40,"lunch, expense",restaurant,cash,primary,
-2-Apr-21,,55,"expense, dinner",,cash,primary,
-3-Apr-21,,80,"lunch, expense",online,cash,primary,
-3-Apr-21,,40,"expense, dinner",restaurant,cash,primary,
-4-Apr-21,,40,"expense, dinner",Market,cash,primary,
-4-Apr-21,,128,"breakfast, lunch, expense",Seven-Eleven,cash,primary,
-4-Apr-21,,20,"laundry fee, expense",apartment,cash,primary,
-5-Apr-21,,66,"breakfast, expense",Seven-Eleven,cash,primary,
-5-Apr-21,,45,"lunch, expense",restaurant,cash,primary,
-5-Apr-21,,45,"expense, dinner",restaurant,cash,primary,
-5-Apr-21,,40,"expense, costume",shop,cash,tertiary,
-5-Apr-21,,200,"expense, costume",shop,cash,tertiary,
-6-Apr-21,,90,"food, breakfast, lunch, expense",online,cash,primary,
+1-Apr-21,3000, ,income,online,netbank,primary
+1-Apr-21,2000, ,income,online,netbank,tertiary
+1-Apr-21,,39,"food, breakfast, drink water, expense",Seven-Eleven,cash,primary
+1-Apr-21,,250,"education related fee, expense",online,cash,primary
+1-Apr-21,,650,"music, expense",music shop,cash,tertiary
+1-Apr-21,,40,"lunch, expense",restaurant,cash,primary
+2-Apr-21,,39,"breakfast, expense",,cash,primary
+2-Apr-21,,40,"lunch, expense",restaurant,cash,primary
+2-Apr-21,,55,"expense, dinner",,cash,primary
+3-Apr-21,,80,"lunch, expense",online,cash,primary
+3-Apr-21,,40,"expense, dinner",restaurant,cash,primary
+4-Apr-21,,40,"expense, dinner",Market,cash,primary
+4-Apr-21,,128,"breakfast, lunch, expense",Seven-Eleven,cash,primary
+4-Apr-21,,20,"laundry fee, expense",apartment,cash,primary
+5-Apr-21,,66,"breakfast, expense",Seven-Eleven,cash,primary
+5-Apr-21,,45,"lunch, expense",restaurant,cash,primary
+5-Apr-21,,45,"expense, dinner",restaurant,cash,primary
+5-Apr-21,,40,"expense, costume",shop,cash,tertiary
+5-Apr-21,,200,"expense, costume",shop,cash,tertiary
+6-Apr-21,,90,"food, breakfast, lunch, expense",online,cash,primary
 7-May-21,,720,invest,,,,
-6-Apr-21,,50,"expense, dinner",restaurant,cash,primary,
-7-Apr-21,,67,"breakfast, expense",Seven-Eleven,cash,primary,
-7-Apr-21,,40,"lunch, expense",restaurant,cash,primary,
-7-Apr-21,,19,"expense, energy drink",restaurant,cash,primary,
-7-Apr-21,,40,"expense, dinner",restaurant,cash,primary,
-8-Apr-21,,95,"breakfast, lunch, expense",online,wallet,primary,
-8-Apr-21,,227,"computer, expense",online,wallet,tertiary,
+6-Apr-21,,50,"expense, dinner",restaurant,cash,primary
+7-Apr-21,,67,"breakfast, expense",Seven-Eleven,cash,primary
+7-Apr-21,,40,"lunch, expense",restaurant,cash,primary
+7-Apr-21,,19,"expense, energy drink",restaurant,cash,primary
+7-Apr-21,,40,"expense, dinner",restaurant,cash,primary
+8-Apr-21,,95,"breakfast, lunch, expense",online,wallet,primary
+8-Apr-21,,227,"computer, expense",online,wallet,tertiary
 8-Apr-21,,20,"laundry fee, expense",,,,
-8-Apr-21,100,,income,online,netbank,tertiary,
-8-Apr-21,400,,income,online,netbank,tertiary,
-8-Apr-21,,19,"expense, energy drink",shop,cash,primary,
-8-Apr-21,,200,"food, expense",shop,cash,primary,
-9-Apr-21,,109,"expense, costume",TESCOLOTUS,cash,secondary,
-9-Apr-21,,13,"expense, kitchenware",TESCOLOTUS,cash,primary,
-9-Apr-21,,7,"drink water, expense",Seven-Eleven,cash,primary,
-9-Apr-21,,20,"food, expense",Seven-Eleven,cash,primary,
-9-Apr-21,,30,"food, lunch, expense",Seven-Eleven,cash,primary,
-9-Apr-21,,100,"barber's fee, expense",none,netbank,primary,
-9-Apr-21,,20,"food, breakfast, expense",none,cash,primary,
-10-Apr-21,,80,"breakfast, expense, energy drink",online,cash,primary,
-10-Apr-21,,100,"car fare, expense",none,cash,primary,
-11-Apr-21,,80,"candy, expense",shop,cash,primary,
-12-Apr-21,,420,"computer, expense",online,wallet,tertiary,
-13-Apr-21,,99,"computer, expense",online,netbank,tertiary,
-17-Apr-21,300,,income,online,,tertiary,
-18-Apr-21,,90,"lunch, expense, dinner",online,wallet,primary,
-18-Apr-21,,215,"computer, expense",online,wallet,tertiary,
-18-Apr-21,,20,"laundry fee, expense",apartment,cash,primary,
-18-Apr-21,,155,"car fare, expense",none,cash,secondary,
-18-Apr-21,,99,expense,online,wallet,secondary,
-19-Apr-21,,56,"breakfast, drink water, expense",Seven-Eleven,cash,primary,
-19-Apr-21,,15,"breakfast, expense",none,cash,primary,
-19-Apr-21,,110,"lunch, expense, dinner",online,wallet,primary,
-20-Apr-21,,45,"breakfast, lunch, expense",online,cash,primary,
-20-Apr-21,,10,"expense, dinner",online,cash,primary,
-21-Apr-21,,95,"breakfast, lunch, expense, dinner",online,cash,primary,
-22-Apr-21,,130,"breakfast, lunch, expense",online,cash,primary,
-22-Apr-21,,100,invest,online,netbank,secondary,
-23-Apr-21,,100,invest,online,netbank,secondary,
-23-Apr-21,,61,"breakfast, expense",Seven-Eleven,cash,primary,
-23-Apr-21,,20,"lunch, expense",none,cash,primary,
-23-Apr-21,,55,"expense, dinner",online,wallet,primary,
-23-Apr-21,,25,"expense, energy drink",online,wallet,primary,
-24-Apr-21,,95,"breakfast, lunch, expense, dinner",online,wallet,primary,
-24-Apr-21,1000,,income,online,netbank,primary,
-24-Apr-21,,350,"computer, expense",online,netbank,tertiary,
-25-Apr-21,,40,"breakfast, lunch, expense",shop,cash,primary,
-25-Apr-21,,20,"expense, energy drink",shop,cash,primary,
-26-Apr-21,,61,"breakfast, lunch, expense, dinner",Seven-Eleven,cash,primary,
-27-Apr-21,,101,"breakfast, lunch, expense, dinner",Seven-Eleven,cash,primary,
-28-Apr-21,,19,"expense, energy drink",shop,cash,primary,
-28-May-21,,60,"breakfast, lunch, expense",Seven-Eleven,cash,primary,
-29-Apr-21,,50,"expense, dinner",shop,cash,primary,
-30-Apr-21,,95,"breakfast, lunch, expense, dinner",online,cash,primary,
-1-May-21,3000,,owe,online,netbank,primary,
-1-May-21,,100,"food, breakfast, lunch, expense, dinner",online,netbank,primary,
-1-May-21,,192,"computer, expense",online,netbank,secondary,
-1-May-21,,990,"computer, education related fee, expense",online,netbank,primary,
-1-May-21,,318,"computer, expense",online,wallet,tertiary,
-2-May-21,,113,"candy, breakfast, lunch, expense, dinner, energy drink",Seven-Eleven,wallet,primary,
-2-May-21,3922,,income,online,Cryptocurrency,tertiary,
-2-May-21,,852,"music, expense",online,netbank,secondary,
-3-May-21,,37,"breakfast, drink water, expense",Seven-Eleven,cash,primary,
-3-May-21,,110,"car fare, expense",none,cash,primary,
-3-May-21,,620,"computer, expense",online,netbank,primary,
-3-May-21,50,,income,TESCOLOTUS,cash,primary,
-3-May-21,,50,"lunch, expense",TESCOLOTUS,wallet,primary,
-3-May-21,,35,"internet fee, expense",online,wallet,primary,
-4-May-21,,15,"expense, appliances",shop,cash,secondary,
-5-May-21,,595,"rent fee, expense",online,netbank,primary,
-6-May-21,,20,expense,online,wallet,tertiary,
-6-May-21,,1884,"internet fee, expense",online,netbank,secondary,
-7-May-21,,915,invest,online,netbank,secondary,
-11-May-21,,200,invest,online,netbank,secondary,
-12-May-21,,30,food,none,cash,primary,
-12-May-21,400,,income,online,netbank,tertiary,
-14-May-21,,400,invest,online,netbank,tertiary,
-18-May-21,972,,"income, invest",online,Cryptocurrency,tertiary,
-20-May-21,342,,"income, invest",online,Cryptocurrency,tertiary,
-25-May-21,,852,,online,netbank,tertiary,
-22-May-21,,70,"candy, expense",none,cash,primary,
-29-May-21,300,,income,none,cash,secondary,
-30-May-21,300,,income,none,cash,secondary,
-31-May-21,1900,,income,none,cash,tertiary,
-31-May-21,,500,"rent fee, expense",online,netbank,primary,
-31-May-21,,80,"candy, milk, expense",shop,cash,primary,
-1-Jun-21,,84,"education related fee, expense",online,netbank,primary,
-3-Jun-21,,1090,"computer, expense",online,cash,secondary,
-4-Jun-21,,214,"computer, expense",online,cash,secondary,
-10-Jun-21,,130,"candy, expense",online,cash,primary,
-15-Jun-21,100,,income,none,cash,tertiary,
-16-Jun-21,,50,"candy, expense",none,cash,secondary,
+8-Apr-21,100,,income,online,netbank,tertiary
+8-Apr-21,400,,income,online,netbank,tertiary
+8-Apr-21,,19,"expense, energy drink",shop,cash,primary
+8-Apr-21,,200,"food, expense",shop,cash,primary
+9-Apr-21,,109,"expense, costume",TESCOLOTUS,cash,secondary
+9-Apr-21,,13,"expense, kitchenware",TESCOLOTUS,cash,primary
+9-Apr-21,,7,"drink water, expense",Seven-Eleven,cash,primary
+9-Apr-21,,20,"food, expense",Seven-Eleven,cash,primary
+9-Apr-21,,30,"food, lunch, expense",Seven-Eleven,cash,primary
+9-Apr-21,,100,"barber's fee, expense",none,netbank,primary
+9-Apr-21,,20,"food, breakfast, expense",none,cash,primary
+10-Apr-21,,80,"breakfast, expense, energy drink",online,cash,primary
+10-Apr-21,,100,"car fare, expense",none,cash,primary
+11-Apr-21,,80,"candy, expense",shop,cash,primary
+12-Apr-21,,420,"computer, expense",online,wallet,tertiary
+13-Apr-21,,99,"computer, expense",online,netbank,tertiary
+17-Apr-21,300,,income,online,,tertiary
+18-Apr-21,,90,"lunch, expense, dinner",online,wallet,primary
+18-Apr-21,,215,"computer, expense",online,wallet,tertiary
+18-Apr-21,,20,"laundry fee, expense",apartment,cash,primary
+18-Apr-21,,155,"car fare, expense",none,cash,secondary
+18-Apr-21,,99,expense,online,wallet,secondary
+19-Apr-21,,56,"breakfast, drink water, expense",Seven-Eleven,cash,primary
+19-Apr-21,,15,"breakfast, expense",none,cash,primary
+19-Apr-21,,110,"lunch, expense, dinner",online,wallet,primary
+20-Apr-21,,45,"breakfast, lunch, expense",online,cash,primary
+20-Apr-21,,10,"expense, dinner",online,cash,primary
+21-Apr-21,,95,"breakfast, lunch, expense, dinner",online,cash,primary
+22-Apr-21,,130,"breakfast, lunch, expense",online,cash,primary
+22-Apr-21,,100,invest,online,netbank,secondary
+23-Apr-21,,100,invest,online,netbank,secondary
+23-Apr-21,,61,"breakfast, expense",Seven-Eleven,cash,primary
+23-Apr-21,,20,"lunch, expense",none,cash,primary
+23-Apr-21,,55,"expense, dinner",online,wallet,primary
+23-Apr-21,,25,"expense, energy drink",online,wallet,primary
+24-Apr-21,,95,"breakfast, lunch, expense, dinner",online,wallet,primary
+24-Apr-21,1000,,income,online,netbank,primary
+24-Apr-21,,350,"computer, expense",online,netbank,tertiary
+25-Apr-21,,40,"breakfast, lunch, expense",shop,cash,primary
+25-Apr-21,,20,"expense, energy drink",shop,cash,primary
+26-Apr-21,,61,"breakfast, lunch, expense, dinner",Seven-Eleven,cash,primary
+27-Apr-21,,101,"breakfast, lunch, expense, dinner",Seven-Eleven,cash,primary
+28-Apr-21,,19,"expense, energy drink",shop,cash,primary
+28-May-21,,60,"breakfast, lunch, expense",Seven-Eleven,cash,primary
+29-Apr-21,,50,"expense, dinner",shop,cash,primary
+30-Apr-21,,95,"breakfast, lunch, expense, dinner",online,cash,primary
+1-May-21,3000,,owe,online,netbank,primary
+1-May-21,,100,"food, breakfast, lunch, expense, dinner",online,netbank,primary
+1-May-21,,192,"computer, expense",online,netbank,secondary
+1-May-21,,990,"computer, education related fee, expense",online,netbank,primary
+1-May-21,,318,"computer, expense",online,wallet,tertiary
+2-May-21,,113,"candy, breakfast, lunch, expense, dinner, energy drink",Seven-Eleven,wallet,primary
+2-May-21,3922,,income,online,Cryptocurrency,tertiary
+2-May-21,,852,"music, expense",online,netbank,secondary
+3-May-21,,37,"breakfast, drink water, expense",Seven-Eleven,cash,primary
+3-May-21,,110,"car fare, expense",none,cash,primary
+3-May-21,,620,"computer, expense",online,netbank,primary
+3-May-21,50,,income,TESCOLOTUS,cash,primary
+3-May-21,,50,"lunch, expense",TESCOLOTUS,wallet,primary
+3-May-21,,35,"internet fee, expense",online,wallet,primary
+4-May-21,,15,"expense, appliances",shop,cash,secondary
+5-May-21,,595,"rent fee, expense",online,netbank,primary
+6-May-21,,20,expense,online,wallet,tertiary
+6-May-21,,1884,"internet fee, expense",online,netbank,secondary
+7-May-21,,915,invest,online,netbank,secondary
+11-May-21,,200,invest,online,netbank,secondary
+12-May-21,,30,food,none,cash,primary
+12-May-21,400,,income,online,netbank,tertiary
+14-May-21,,400,invest,online,netbank,tertiary
+18-May-21,972,,"income, invest",online,Cryptocurrency,tertiary
+20-May-21,342,,"income, invest",online,Cryptocurrency,tertiary
+25-May-21,,852,,online,netbank,tertiary
+22-May-21,,70,"candy, expense",none,cash,primary
+29-May-21,300,,income,none,cash,secondary
+30-May-21,300,,income,none,cash,secondary
+31-May-21,1900,,income,none,cash,tertiary
+31-May-21,,500,"rent fee, expense",online,netbank,primary
+31-May-21,,80,"candy, milk, expense",shop,cash,primary
+1-Jun-21,,84,"education related fee, expense",online,netbank,primary
+3-Jun-21,,1090,"computer, expense",online,cash,secondary
+4-Jun-21,,214,"computer, expense",online,cash,secondary
+10-Jun-21,,130,"candy, expense",online,cash,primary
+15-Jun-21,100,,income,none,cash,tertiary
+16-Jun-21,,50,"candy, expense",none,cash,secondary
