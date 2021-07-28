@@ -1,0 +1,286 @@
+﻿Date,Income,Expense,Category,Where,Payment Method,Measurement
+1-Jan-21,3000,,เป็นหนี้,Online,Bank,Primary
+1-Jan-21,3500,,รายรับ,ที่บ้าน,Cash,Primary
+1-Jan-21,,2800,"ค่าเช่าหอพัก, รายจ่าย",ที่พัก,Cash,Primary
+1-Jan-21,,40,"ค่าน้ำ, รายจ่าย",ที่พัก,Cash,Primary
+1-Jan-21,,65,"ค่าไฟ, รายจ่าย",ที่พัก,Cash,Primary
+1-Jan-21,,853,"ดนตรี, รายจ่าย",Online,Bank,Tertiary
+1-Jan-21,1600,,"รายรับ, สิ่งบันเทิง",Online,Cash,Tertiary
+3-Jan-21,,90,"ค่ารถ, รายจ่าย",None,Cash,Primary
+3-Jan-21,,35,"ข้าวเช้า, รายจ่าย",Market,Cash,Primary
+3-Jan-21,,30,"ข้าวเย็น, รายจ่าย",Market,Cash,Primary
+3-Jan-21,,10,รายจ่าย,ร้านค้า,Cash,Primary
+3-Jan-21,,40,รายจ่าย,ที่พัก,Cash,Secondary
+4-Jan-21,,65,"ข้าวเช้า, รายจ่าย",11-Jul,Cash,Primary
+4-Jan-21,,45,"รายจ่าย, ไข่ไก่",11-Jul,Cash,Primary
+4-Jan-21,,15,"น้ำ, รายจ่าย",ที่พัก,Cash,Primary
+4-Jan-21,,30,"ข้าว, ข้าวเย็น, รายจ่าย",Market,Cash,Primary
+5-Jan-21,,45,"ข้าว, รายจ่าย",11-Jul,Cash,Primary
+5-Jan-21,,20,"ขนม, รายจ่าย",11-Jul,Cash,Primary
+5-Jan-21,,35,"ข้าว, ข้าวเที่ยง, รายจ่าย",ร้านข้าว,Cash,Primary
+5-Jan-21,,19,"ข้าว, รายจ่าย",11-Jul,Cash,Primary
+5-Jan-21,,7,"น้ำ, รายจ่าย",11-Jul,Cash,Primary
+5-Jan-21,,150,"รายจ่าย, เติมเงิน",11-Jul,Cash,Primary
+6-Jan-21,,20,"ข้าว, รายจ่าย",Market,Cash,Primary
+6-Jan-21,,30,"ผลไม้, รายจ่าย",Market,Cash,Primary
+6-Jan-21,,20,"ของกิน, รายจ่าย",Market,Cash,Primary
+6-Jan-21,,18,"ขนม, รายจ่าย",11-Jul,Cash,Primary
+6-Jan-21,,26,"นม, รายจ่าย",11-Jul,Cash,Primary
+6-Jan-21,,25,"ขนม, รายจ่าย",11-Jul,Cash,Primary
+6-Jan-21,,35,"นม, รายจ่าย",11-Jul,Cash,Primary
+7-Jan-21,,30,"ข้าว, รายจ่าย",Market,Cash,Primary
+7-Jan-21,,35,"รายจ่าย, ไข่ไก่",Market,Cash,Primary
+7-Jan-21,,20,"น้ำผลไม้, รายจ่าย",Market,Cash,Primary
+7-Jan-21,,20,"ซักผ้า, รายจ่าย",Market,Cash,Secondary
+8-Jan-21,,35,"ข้าว, รายจ่าย",11-Jul,Cash,Primary
+8-Jan-21,,34,"รายจ่าย, เครื่องอุปโภค",11-Jul,Cash,Primary
+8-Jan-21,,30,"นม, รายจ่าย",11-Jul,Cash,Primary
+9-Jan-21,,20,"ข้าว, รายจ่าย",Market,Cash,Primary
+9-Jan-21,,30,"ของกิน, รายจ่าย",Market,Cash,Primary
+10-Jan-21,,90,"ค่ารถ, รายจ่าย",None,Cash,Primary
+10-Jan-21,,40,"ขนม, รายจ่าย",ร้านค้า,Cash,Primary
+11-Jan-21,,200,"รายจ่าย, เติมเงิน",ร้านค้า,Cash,Secondary
+18-Jan-21,,40,"ขนม, รายจ่าย",ร้านค้า,Cash,Primary
+22-Jan-21,,484,"รายจ่าย, เครื่องอุปโภค",Online,Bank,Secondary
+31-Jan-21,,51,"รายจ่าย, เครื่องอุปโภค",Online,Cash,Secondary
+31-Jan-21,,193,"ของกิน, รายจ่าย",Online,Cash,Primary
+31-Jan-21,,90,"ค่ารถ, รายจ่าย",None,Cash,Primary
+31-Jan-21,,50,"รายจ่าย, เติมเงิน",Online,Cash,Secondary
+31-Jan-21,3500,,รายรับ,ที่บ้าน,Cash,Primary
+31-Jan-21,,50,"ค่ารถ, รายจ่าย",None,Cash,Primary
+1-Feb-21,6000,,เป็นหนี้,Online,Bank,Primary
+1-Feb-21,,2800,"ค่าเช่าหอพัก, รายจ่าย",ที่พัก,Cash,Primary
+1-Feb-21,2939,,รายรับ,Online,Bank,Tertiary
+1-Feb-21,,20,"ค่าน้ำ, รายจ่าย",ที่พัก,Cash,Primary
+1-Feb-21,,20,"ค่าไฟ, รายจ่าย",ที่พัก,Cash,Primary
+1-Feb-21,,991,"รายจ่าย, เครื่องอุปโภค",Online,Cash,Tertiary
+1-Feb-21,,20,"ดนตรี, รายจ่าย",Online,Bank,Tertiary
+1-Feb-21,,20,"ข้าว, รายจ่าย",Market,Cash,Primary
+1-Feb-21,,65,"ของกิน, รายจ่าย",ร้านค้า,Cash,Primary
+1-Feb-21,,40,"น้ำผลไม้, รายจ่าย",Market,Cash,Primary
+1-Feb-21,,14,"รายจ่าย, เครื่องครัว",Market,Cash,Primary
+2-Feb-21,,32,"ข้าว, รายจ่าย",11-Jul,Cash,Primary
+2-Feb-21,100,,รายรับ,Online,Bank,Tertiary
+2-Feb-21,,37,"ค่าเกี่ยวเนื่องการศึกษา, รายจ่าย",11-Jul,Cash,Primary
+3-Feb-21,,37,"ข้าวเช้า, รายจ่าย",11-Jul,Cash,Primary
+3-Feb-21,,40,"ข้าวเที่ยง, รายจ่าย",ร้านข้าว,Cash,Primary
+3-Feb-21,,116,"รายจ่าย, วัตถุดิบ, เครื่องครัว",LOTUS,Cash,Primary
+3-Feb-21,,40,"รายจ่าย, วัตถุดิบ",Market,Cash,Primary
+3-Feb-21,,10,"รายจ่าย, วัตถุดิบ",Market,Cash,Primary
+3-Feb-21,,50,"ค่าเกี่ยวเนื่องการศึกษา, รายจ่าย",Market,Cash,Primary
+3-Feb-21,,20,"น้ำ, รายจ่าย",Market,Cash,Primary
+4-Feb-21,,40,"ข้าว, ข้าวเที่ยง, รายจ่าย",ร้านข้าว,Cash,Primary
+4-Feb-21,,10,"รายจ่าย, เครื่องครัว",11-Jul,Cash,Primary
+4-Feb-21,,36,"รายจ่าย, เครื่องอุปโภค",11-Jul,Cash,Primary
+5-Feb-21,,100,ลงทุน,Online,Bank,Secondary
+6-Feb-21,,48,"รายจ่าย, เครื่องครัว",LOTUS,Cash,Primary
+6-Feb-21,,45,"รายจ่าย, ไข่ไก่",LOTUS,Cash,Primary
+6-Feb-21,,45,"รายจ่าย, วัตถุดิบ",LOTUS,Cash,Primary
+7-Feb-21,,14,"น้ำ, รายจ่าย",ที่พัก,Cash,Primary
+7-Feb-21,,20,"ข้าว, ข้าวเย็น, รายจ่าย",Market,Cash,Primary
+8-Feb-21,,16,"ยา, รายจ่าย",11-Jul,Cash,Primary
+8-Feb-21,,47,"ข้าว, ข้าวเที่ยง, ข้าวเย็น, รายจ่าย",11-Jul,Cash,Primary
+8-Feb-21,,9,"น้ำ, รายจ่าย",11-Jul,Cash,Primary
+8-Feb-21,,29,"รายจ่าย, เครื่องอุปโภค",11-Jul,Cash,Primary
+8-Feb-21,,30,"ผลไม้, รายจ่าย",Market,Cash,Primary
+8-Feb-21,,10,"ข้าว, ข้าวเย็น, รายจ่าย",Market,Cash,Primary
+9-Feb-21,,35,"ข้าว, ข้าวเที่ยง, รายจ่าย",11-Jul,Cash,Primary
+9-Feb-21,,7,"น้ำ, รายจ่าย",11-Jul,Cash,Primary
+9-Feb-21,,19,"ขนม, รายจ่าย",11-Jul,Cash,Primary
+9-Feb-21,,35,"ข้าว, ข้าวเย็น, รายจ่าย",11-Jul,Cash,Primary
+10-Feb-21,,35,รายจ่าย,ร้านข้าว,Cash,Primary
+10-Feb-21,,55,รายจ่าย,ร้านค้า,Cash,Tertiary
+10-Feb-21,,63,รายจ่าย,SNRU,Bank,Primary
+10-Feb-21,,10,รายจ่าย,Market,Cash,Primary
+10-Feb-21,,20,รายจ่าย,Market,Cash,Primary
+10-Feb-21,,30,รายจ่าย,Market,Cash,Secondary
+11-Feb-21,,19,รายจ่าย,11-Jul,Cash,Primary
+11-Feb-21,,7,รายจ่าย,11-Jul,Cash,Primary
+11-Feb-21,,20,รายจ่าย,11-Jul,Cash,Primary
+11-Feb-21,30,,รายรับ,SNRU,Cash,Tertiary
+12-Feb-21,,5,"ข้าว, รายจ่าย",Market,Cash,Primary
+12-Feb-21,,20,"ข้าว, ข้าวเย็น, รายจ่าย",Market,Cash,Primary
+12-Feb-21,,35,"ของกิน, รายจ่าย",Market,Cash,Primary
+12-Feb-21,,20,"รายจ่าย, เครื่องอุปโภค",Market,Cash,Primary
+12-Feb-21,,15,"น้ำ, รายจ่าย",ที่พัก,Cash,Primary
+13-Feb-21,,30,"ผลไม้, รายจ่าย",Market,Cash,Primary
+13-Feb-21,,5,"ข้าว, รายจ่าย",Market,Cash,Primary
+13-Feb-21,,20,"ข้าว, ข้าวเย็น, รายจ่าย",Market,Cash,Primary
+13-Feb-21,,35,"ของกิน, รายจ่าย",Market,Cash,Primary
+14-Feb-21,,40,"ข้าว, ข้าวเที่ยง, รายจ่าย",ร้านข้าว,Cash,Primary
+15-Feb-21,,20,"ข้าวเช้า, รายจ่าย",11-Jul,Cash,Primary
+15-Feb-21,,35,"ข้าว, ข้าวเที่ยง, รายจ่าย",ร้านข้าว,Cash,Primary
+15-Feb-21,,25,"ข้าว, ข้าวเย็น, รายจ่าย",Market,Cash,Primary
+15-Feb-21,,35,รายจ่าย,Market,Cash,Primary
+16-Feb-21,,30,"ข้าว, ข้าวเที่ยง, รายจ่าย",ร้านข้าว,Cash,Primary
+16-Feb-21,,10,"ของกิน, รายจ่าย",None,Cash,Primary
+16-Feb-21,,32,"ข้าว, ข้าวเย็น, รายจ่าย",11-Jul,Cash,Primary
+16-Feb-21,,65,"ข้าว, รายจ่าย",11-Jul,Cash,Primary
+16-Feb-21,,100,"ตัดผม, รายจ่าย",None,Cash,Secondary
+16-Feb-21,,421,"ค่าเกี่ยวเนื่องการศึกษา, รายจ่าย",Online,Bank,Tertiary
+16-Feb-21,,280,"ค่าเกี่ยวเนื่องการศึกษา, รายจ่าย",Online,Bank,Tertiary
+16-Feb-21,,310,"ค่าเกี่ยวเนื่องการศึกษา, รายจ่าย",Online,Bank,Tertiary
+17-Feb-21,,90,"ผลไม้, รายจ่าย",Market,Cash,Primary
+17-Feb-21,,20,"ข้าว, ข้าวเย็น, รายจ่าย",Market,Cash,Primary
+18-Feb-21,,40,"ข้าวเที่ยง, รายจ่าย",ร้านข้าว,Cash,Primary
+18-Feb-21,,89,"รายจ่าย, เครื่องอุปโภค",LOTUS,Cash,Secondary
+18-Feb-21,,15,"ของกิน, รายจ่าย",LOTUS,Cash,Primary
+18-Feb-21,,10,"รายจ่าย, เครื่องครัว",LOTUS,Cash,Primary
+19-Feb-21,,30,"ของกิน, รายจ่าย",Market,Cash,Primary
+19-Feb-21,,20,"ของกิน, รายจ่าย",Market,Cash,Primary
+19-Feb-21,,15,"ข้าว, ข้าวเย็น, รายจ่าย",Market,Cash,Primary
+20-Feb-21,,70,"ข้าว, ข้าวเช้า, ข้าวเที่ยง, น้ำ, รายจ่าย",Online,Wallet,Primary
+20-Feb-21,,20,"ข้าวเย็น, รายจ่าย",Market,Cash,Primary
+20-Feb-21,,35,"ของกิน, รายจ่าย",Market,Cash,Primary
+21-Feb-21,,299,"ค่าซิม, ค่าเน็ต, รายจ่าย",Online,Bank,Tertiary
+22-Feb-21,,55,"ข้าว, ข้าวเช้า, รายจ่าย",11-Jul,Wallet,Primary
+22-Feb-21,,45,"ข้าว, ข้าวเที่ยง, รายจ่าย",ร้านข้าว,Cash,Primary
+22-Feb-21,,15,"ข้าว, รายจ่าย",LOTUS,Cash,Primary
+23-Feb-21,,35,"ข้าว, ข้าวเที่ยง, รายจ่าย",ร้านข้าว,Cash,Primary
+23-Feb-21,,39,รายจ่าย,11-Jul,Cash,Primary
+23-Feb-21,,15,"รายจ่าย, เครื่องดื่ม",11-Jul,Cash,Primary
+23-Feb-21,,7,"น้ำ, รายจ่าย",11-Jul,Cash,Primary
+23-Feb-21,,40,"ข้าว, ข้าวเย็น, รายจ่าย",ร้านข้าว,Cash,Primary
+23-Feb-21,,5,รายจ่าย,11-Jul,Cash,Primary
+24-Feb-21,,10,รายจ่าย,11-Jul,Cash,Primary
+24-Feb-21,,35,รายจ่าย,11-Jul,Cash,Primary
+24-Feb-21,,19,รายจ่าย,11-Jul,Cash,Primary
+24-Feb-21,,15,รายจ่าย,11-Jul,Cash,Primary
+25-Feb-21,,85,"ข้าวเช้า, รายจ่าย, เครื่องดื่ม",Online,Cash,Primary
+25-Feb-21,,27,"นม, รายจ่าย",ร้านค้า,Cash,Primary
+25-Feb-21,,22,"ข้าว, รายจ่าย",ร้านค้า,Cash,Primary
+25-Feb-21,,20,"รายจ่าย, เครื่องอุปโภค",ร้านค้า,Cash,Primary
+25-Feb-21,,30,"ของกิน, รายจ่าย",ร้านค้า,Cash,Primary
+25-Feb-21,,10,"รายจ่าย, เครื่องครัว",ร้านค้า,Cash,Primary
+26-Feb-21,,20,"ซักผ้า, รายจ่าย",ที่พัก,Cash,Primary
+26-Feb-21,,55,"ข้าวเช้า, รายจ่าย",Online,Cash,Primary
+26-Feb-21,,40,"รายจ่าย, เครื่องดื่ม",Online,Cash,Primary
+26-Feb-21,30000,,รายรับ,Online,Bank,Tertiary
+26-Feb-21,,29560,"คอมพิวเตอร์, รายจ่าย",None,Bank,Tertiary
+26-Feb-21,,3595,"คอมพิวเตอร์, รายจ่าย",None,Bank,Tertiary
+26-Feb-21,,20,"ข้าว, ข้าวเย็น, รายจ่าย",Market,Cash,Primary
+26-Feb-21,,35,"รายจ่าย, ไข่ไก่",Market,Cash,Primary
+27-Feb-21,,110,"ข้าวเช้า, ข้าวเที่ยง, รายจ่าย, เครื่องดื่ม",Online,Wallet,Primary
+27-Feb-21,2829,,รายรับ,Online,Bank,Tertiary
+27-Feb-21,,3595,รายจ่าย,Online,Bank,Tertiary
+28-Feb-21,,120,"ข้าวเช้า, ข้าวเที่ยง, รายจ่าย",Online,Wallet,Primary
+1-Mar-21,3000,,รายรับ,Online,Bank,Primary
+1-Mar-21,3000,,รายรับ,Online,Bank,Primary
+1-Mar-21,,7,"น้ำ, รายจ่าย",11-Jul,Cash,Primary
+1-Mar-21,,20,"ของกิน, ข้าว, รายจ่าย",11-Jul,Cash,Primary
+1-Mar-21,,50,"ข้าว, ข้าวเย็น, รายจ่าย",ร้านข้าว,Cash,Primary
+1-Mar-21,,239,"คอมพิวเตอร์, รายจ่าย",Online,Bank,Tertiary
+1-Mar-21,,765,"คอมพิวเตอร์, รายจ่าย",Online,Wallet,Tertiary
+2-Mar-21,,50,"ข้าวเย็น, รายจ่าย",ร้านข้าว,Cash,Primary
+3-Mar-21,,99,"ข้าวเย็น, รายจ่าย",11-Jul,Cash,Primary
+3-Mar-21,,20,"ข้าวเที่ยง, รายจ่าย",11-Jul,Cash,Primary
+4-Mar-21,,55,"ข้าวเย็น, รายจ่าย",ร้านข้าว,Cash,Primary
+4-Mar-21,,40,"ข้าวเที่ยง, รายจ่าย",ร้านข้าว,Cash,Primary
+4-Mar-21,,104,"รายจ่าย, เครื่องใช้",ร้านค้า,Cash,Tertiary
+4-Mar-21,,14,รายจ่าย,ร้านค้า,Cash,Tertiary
+4-Mar-21,,60,"รายจ่าย, เครื่องใช้",ร้านค้า,Cash,Tertiary
+4-Mar-21,,15,"ค่าเกี่ยวเนื่องการศึกษา, รายจ่าย",ร้านค้า,Cash,Tertiary
+4-Mar-21,,20,"ข้าว, รายจ่าย",Market,Cash,Primary
+4-Mar-21,,30,"ผลไม้, รายจ่าย",Market,Cash,Primary
+5-Mar-21,,54,"ข้าวเช้า, รายจ่าย",11-Jul,Cash,Primary
+5-Mar-21,,9,"น้ำ, รายจ่าย",11-Jul,Cash,Primary
+5-Mar-21,,25,"รายจ่าย, เครื่องครัว",LOTUS,Cash,Primary
+5-Mar-21,,25,"รายจ่าย, เครื่องครัว",LOTUS,Cash,Primary
+5-Mar-21,,13,"รายจ่าย, เครื่องครัว",LOTUS,Cash,Primary
+5-Mar-21,,2655,รายจ่าย,ที่พัก,Bank,Primary
+5-Mar-21,,40,"นม, รายจ่าย",LOTUS,Cash,Primary
+6-Mar-21,,27,"ข้าว, รายจ่าย",11-Jul,Wallet,
+6-Mar-21,,7,"น้ำ, รายจ่าย",11-Jul,Wallet,Primary
+6-Mar-21,,10,"ขนม, รายจ่าย",11-Jul,Wallet,Primary
+6-Mar-21,,27,"ข้าว, รายจ่าย",11-Jul,Wallet,Primary
+6-Mar-21,,15,"รายจ่าย, เครื่องดื่ม",11-Jul,Wallet,Primary
+6-Mar-21,,54,"รายจ่าย, เครื่องอุปโภค",11-Jul,Wallet,Secondary
+6-Mar-21,,13,"นม, รายจ่าย",11-Jul,Wallet,Primary
+6-Mar-21,,45,"ข้าว, รายจ่าย",11-Jul,Wallet,Primary
+6-Mar-21,,360,"รายจ่าย, สิ่งบันเทิง",Online,Bank,Tertiary
+7-Mar-21,,9,"น้ำ, รายจ่าย",11-Jul,Cash,Primary
+7-Mar-21,,25,รายจ่าย,11-Jul,Cash,Primary
+8-Mar-21,,100,"ข้าวเช้า, ข้าวเที่ยง, รายจ่าย",Online,Wallet,Primary
+9-Mar-21,,34,"ข้าวเช้า, น้ำ, เครื่องดื่ม",11-Jul,Wallet,Primary
+10-Mar-21,,54,"ข้าวเช้า, น้ำ",11-Jul,Wallet,Primary
+10-Mar-21,,20,"ข้าว, รายจ่าย",LOTUS,Cash,Primary
+10-Mar-21,,29,"รายจ่าย, เครื่องอุปโภค",LOTUS,Cash,Tertiary
+10-Mar-21,,10,"รายจ่าย, เครื่องดื่ม",LOTUS,Cash,Primary
+11-Mar-21,,63,"ข้าว, ข้าวเช้า, ข้าวเที่ยง, รายจ่าย",11-Jul,Wallet,Primary
+11-Mar-21,,90,"ค่ารถ, รายจ่าย",ที่บ้าน,Cash,Primary
+12-Mar-21,,20,"ผลไม้, รายจ่าย",Market,Cash,Primary
+13-Mar-21,,100,"ของกิน, รายจ่าย",ร้านค้า,Cash,Primary
+13-Mar-21,3000,,รายรับ,Online,Bank,Tertiary
+14-Mar-21,,90,"ค่ารถ, รายจ่าย",None,Cash,Primary
+14-Mar-21,,257,"คอมพิวเตอร์, รายจ่าย",Online,Bank,Tertiary
+14-Mar-21,,852,"ดนตรี, รายจ่าย",Online,Bank,Tertiary
+14-Mar-21,,60,"ค่ารถ, รายจ่าย",None,Cash,Secondary
+14-Mar-21,,130,"ข้าว, รายจ่าย",Online,Wallet,Primary
+14-Mar-21,,2290,"ค่าเกี่ยวเนื่องการศึกษา, รายจ่าย",Online,Bank,Primary
+14-Mar-21,2000,,รายรับ,Online,Bank,Tertiary
+15-Mar-21,,70,"รายจ่าย, เติมเงิน",Online,Bank,Tertiary
+15-Mar-21,,307,รายจ่าย,Online,Bank,Secondary
+15-Mar-21,,160,"ข้าว, ค่าเกี่ยวเนื่องการศึกษา, รายจ่าย",11-Jul,Wallet,Primary
+15-Mar-21,,40,"ข้าว, รายจ่าย",ร้านข้าว,Cash,Primary
+15-Mar-21,,40,"ข้าว, รายจ่าย",ร้านข้าว,Cash,Primary
+16-Mar-21,,27,"ข้าวเช้า, รายจ่าย",11-Jul,Wallet,Primary
+16-Mar-21,,20,"รายจ่าย, เครื่องดื่ม",11-Jul,Wallet,Primary
+16-Mar-21,,7,"น้ำ, รายจ่าย",11-Jul,Wallet,Primary
+16-Mar-21,,40,"ข้าวเที่ยง, รายจ่าย",ร้านข้าว,Cash,Primary
+16-Mar-21,,40,"ข้าวเย็น, รายจ่าย",ร้านข้าว,Cash,Primary
+17-Mar-21,,27,"ข้าวเย็น, รายจ่าย",11-Jul,Wallet,Primary
+17-Mar-21,,7,"น้ำ, รายจ่าย",11-Jul,Wallet,Primary
+17-Mar-21,,40,"ข้าวเย็น, รายจ่าย",ร้านข้าว,Cash,Primary
+17-Mar-21,100,,รายรับ,Online,Bank,Tertiary
+18-Mar-21,,60,"รายจ่าย, เครื่องอุปโภค",11-Jul,Wallet,Primary
+18-Mar-21,,35,"ข้าวเช้า, รายจ่าย",11-Jul,Wallet,Primary
+18-Mar-21,,7,"น้ำ, รายจ่าย",11-Jul,Wallet,Primary
+18-Mar-21,,12,"น้ำ, รายจ่าย",11-Jul,Wallet,
+18-Mar-21,,10,"ของกิน, รายจ่าย",11-Jul,Wallet,Primary
+18-Mar-21,,45,"ข้าวเที่ยง, รายจ่าย",ร้านข้าว,Cash,Primary
+18-Mar-21,,20,"ข้าวเย็น, รายจ่าย",Market,Cash,Primary
+18-Mar-21,,10,"น้ำผลไม้, รายจ่าย",Market,Cash,Primary
+18-Mar-21,,25,"ผลไม้, รายจ่าย",Market,Cash,Primary
+18-Mar-21,,20,"ผลไม้, รายจ่าย",Market,Cash,Primary
+18-Mar-21,,50,"รายจ่าย, เครื่องอุปโภค",Market,Cash,Primary
+19-Mar-21,,30,"ข้าวเช้า, ข้าวเที่ยง, รายจ่าย",None,Cash,Primary
+19-Mar-21,,40,"รายจ่าย, ไข่ไก่",LOTUS,Cash,Primary
+19-Mar-21,,40,"รายจ่าย, เครื่องอุปโภค",LOTUS,Cash,Secondary
+19-Mar-21,,35,"นม, รายจ่าย",LOTUS,Cash,Primary
+19-Mar-21,,40,"ซักผ้า, รายจ่าย",ที่พัก,Cash,Primary
+19-Mar-21,,130,"ข้าวเที่ยง, ข้าวเย็น",Online,Wallet,Primary
+20-Mar-21,,20,รายจ่าย,None,Cash,Primary
+20-Mar-21,,12,รายจ่าย,11-Jul,Cash,Primary
+21-Mar-21,,85,รายจ่าย,Online,Bank,Primary
+22-Mar-21,4663,,รายรับ,Online,Bank,Tertiary
+22-Mar-21,,348,"รายจ่าย, เครื่องอุปโภค",Online,Bank,Secondary
+22-Mar-21,,828,"คอมพิวเตอร์, รายจ่าย",Online,Bank,Secondary
+22-Mar-21,,328,"รายจ่าย, เครื่องอุปโภค",Online,Bank,Secondary
+22-Mar-21,,34,"ข้าวเที่ยง, รายจ่าย",11-Jul,Wallet,Primary
+22-Mar-21,,50,"ผลไม้, รายจ่าย",Market,Cash,Primary
+22-Mar-21,,20,"ผลไม้, รายจ่าย",Market,Cash,Primary
+22-Mar-21,,20,"น้ำผลไม้, รายจ่าย",Market,Cash,Primary
+22-Mar-21,,20,"ข้าวเย็น, รายจ่าย",Market,Cash,Primary
+23-Mar-21,,523,"ค่าเน็ต, รายจ่าย",Online,Bank,Secondary
+23-Mar-21,,29,"ข้าวเช้า, น้ำ, รายจ่าย",11-Jul,Wallet,Primary
+23-Mar-21,,40,"ข้าว, ข้าวเที่ยง, รายจ่าย",ร้านข้าว,Cash,Primary
+23-Mar-21,,29,"ของกิน, น้ำ, รายจ่าย",11-Jul,Wallet,Primary
+23-Mar-21,,40,"ข้าวเย็น, รายจ่าย",ร้านข้าว,Cash,Primary
+24-Mar-21,,40,รายจ่าย,ร้านข้าว,Cash,Primary
+25-Mar-21,,39,รายจ่าย,11-Jul,Wallet,Primary
+25-Mar-21,,40,รายจ่าย,ร้านข้าว,Cash,Primary
+26-Mar-21,,130,รายจ่าย,11-Jul,Cash,Primary
+26-Mar-21,,40,รายจ่าย,11-Jul,Cash,Primary
+26-Mar-21,,7,รายจ่าย,11-Jul,Cash,Primary
+26-Mar-21,,19,รายจ่าย,11-Jul,Cash,Primary
+27-Mar-21,,80,"ข้าวเช้า, ข้าวเที่ยง, รายจ่าย",Online,Cash,Primary
+28-Mar-21,,40,"ข้าวเช้า, ข้าวเที่ยง, รายจ่าย",ร้านข้าว,Cash,Primary
+29-Mar-21,,34,"ข้าวเช้า, รายจ่าย",11-Jul,Cash,Primary
+30-Mar-21,,40,"ข้าวเที่ยง, รายจ่าย",ร้านข้าว,Cash,Primary
+30-Mar-21,,34,"ข้าวเช้า, รายจ่าย",11-Jul,Cash,Primary
+30-Mar-21,,40,"ข้าวเย็น, รายจ่าย",ร้านข้าว,Cash,Primary
+30-Mar-21,,150,"รายจ่าย, เกมส์",Online,Wallet,Tertiary
+31-Mar-21,,42,"ข้าวเช้า, รายจ่าย",11-Jul,Cash,Primary
+31-Mar-21,,35,"ข้าวเที่ยง, รายจ่าย",ร้านข้าว,Cash,Primary
+31-Mar-21,,10,"น้ำผลไม้, รายจ่าย",Market,Cash,Primary
+31-Mar-21,,30,"ข้าวเย็น, รายจ่าย",Market,Cash,Primary
