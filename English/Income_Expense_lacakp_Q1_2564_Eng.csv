@@ -1,0 +1,286 @@
+﻿Date,Income,Expense,Category,Where,Payment Method,Measurement
+1-Jan-21,3000,,owe,online,netbank,primary
+1-Jan-21,3500,,income,home,cash,primary
+1-Jan-21,,2800,"rent fee, expense",apartment,cash,primary
+1-Jan-21,,40,"water bill, expense",apartment,cash,primary
+1-Jan-21,,65,"electricity bill, expense",apartment,cash,primary
+1-Jan-21,,853,"music, expense",online,netbank,tertiary
+1-Jan-21,1600,,"income, entertainment",online,cash,tertiary
+3-Jan-21,,90,"car fare, expense",none,cash,primary
+3-Jan-21,,35,"breakfast, expense",market,cash,primary
+3-Jan-21,,30,"dinner, expense",market,cash,primary
+3-Jan-21,,10,expense,shop,cash,primary
+3-Jan-21,,40,expense,apartment,cash,secondary
+4-Jan-21,,65,"breakfast, expense",Seven-Eleven,cash,primary
+4-Jan-21,,45,"expense, eggs",Seven-Eleven,cash,primary
+4-Jan-21,,15,"drinking water, expense",apartment,cash,primary
+4-Jan-21,,30,"food, dinner, expense",market,cash,primary
+5-Jan-21,,45,"food, expense",Seven-Eleven,cash,primary
+5-Jan-21,,20,"candy, expense",Seven-Eleven,cash,primary
+5-Jan-21,,35,"food, lunch, expense",restaurant,cash,primary
+5-Jan-21,,19,"food, expense",Seven-Eleven,cash,primary
+5-Jan-21,,7,"drinking water, expense",Seven-Eleven,cash,primary
+5-Jan-21,,150,"expense, top up",Seven-Eleven,cash,primary
+6-Jan-21,,20,"food, expense",market,cash,primary
+6-Jan-21,,30,"fruit, expense",market,cash,primary
+6-Jan-21,,20,"food, expense",market,cash,primary
+6-Jan-21,,18,"candy, expense",Seven-Eleven,cash,primary
+6-Jan-21,,26,"milk, expense",Seven-Eleven,cash,primary
+6-Jan-21,,25,"candy, expense",Seven-Eleven,cash,primary
+6-Jan-21,,35,"milk, expense",Seven-Eleven,cash,primary
+7-Jan-21,,30,"food, expense",market,cash,primary
+7-Jan-21,,35,"expense, eggs",market,cash,primary
+7-Jan-21,,20,"fruit juice, expense",market,cash,primary
+7-Jan-21,,20,"laundry fee, expense",market,cash,secondary
+8-Jan-21,,35,"food, expense",Seven-Eleven,cash,primary
+8-Jan-21,,34,"expense, consumer goods",Seven-Eleven,cash,primary
+8-Jan-21,,30,"milk, expense",Seven-Eleven,cash,primary
+9-Jan-21,,20,"food, expense",market,cash,primary
+9-Jan-21,,30,"food, expense",market,cash,primary
+10-Jan-21,,90,"car fare, expense",none,cash,primary
+10-Jan-21,,40,"candy, expense",shop,cash,primary
+11-Jan-21,,200,"expense, top up",shop,cash,secondary
+18-Jan-21,,40,"candy, expense",shop,cash,primary
+22-Jan-21,,484,"expense, consumer goods",online,netbank,secondary
+31-Jan-21,,51,"expense, consumer goods",online,cash,secondary
+31-Jan-21,,193,"food, expense",online,cash,primary
+31-Jan-21,,90,"car fare, expense",none,cash,primary
+31-Jan-21,,50,"expense, top up",online,cash,secondary
+31-Jan-21,3500,,income,home,cash,primary
+31-Jan-21,,50,"car fare, expense",none,cash,primary
+1-Feb-21,6000,,owe,online,netbank,primary
+1-Feb-21,,2800,"rent fee, expense",apartment,cash,primary
+1-Feb-21,2939,,income,online,netbank,tertiary
+1-Feb-21,,20,"water bill, expense",apartment,cash,primary
+1-Feb-21,,20,"electricity bill, expense",apartment,cash,primary
+1-Feb-21,,991,"expense, consumer goods",online,cash,tertiary
+1-Feb-21,,20,"music, expense",online,netbank,tertiary
+1-Feb-21,,20,"food, expense",market,cash,primary
+1-Feb-21,,65,"food, expense",shop,cash,primary
+1-Feb-21,,40,"fruit juice, expense",market,cash,primary
+1-Feb-21,,14,"expense, kitchenware",market,cash,primary
+2-Feb-21,,32,"food, expense",Seven-Eleven,cash,primary
+2-Feb-21,100,,income,online,netbank,tertiary
+2-Feb-21,,37,"education related fee, expense",Seven-Eleven,cash,primary
+3-Feb-21,,37,"breakfast, expense",Seven-Eleven,cash,primary
+3-Feb-21,,40,"lunch, expense",restaurant,cash,primary
+3-Feb-21,,116,"expense, raw material, kitchenware",LOTUS,cash,primary
+3-Feb-21,,40,"expense, raw material",market,cash,primary
+3-Feb-21,,10,"expense, raw material",market,cash,primary
+3-Feb-21,,50,"education related fee, expense",market,cash,primary
+3-Feb-21,,20,"drinking water, expense",market,cash,primary
+4-Feb-21,,40,"food, lunch, expense",restaurant,cash,primary
+4-Feb-21,,10,"expense, kitchenware",Seven-Eleven,cash,primary
+4-Feb-21,,36,"expense, consumer goods",Seven-Eleven,cash,primary
+5-Feb-21,,100,ลงทุน,online,netbank,secondary
+6-Feb-21,,48,"expense, kitchenware",LOTUS,cash,primary
+6-Feb-21,,45,"expense, eggs",LOTUS,cash,primary
+6-Feb-21,,45,"expense, raw material",LOTUS,cash,primary
+7-Feb-21,,14,"drinking water, expense",apartment,cash,primary
+7-Feb-21,,20,"food, dinner, expense",market,cash,primary
+8-Feb-21,,16,"medicine, expense",Seven-Eleven,cash,primary
+8-Feb-21,,47,"food, lunch, dinner, expense",Seven-Eleven,cash,primary
+8-Feb-21,,9,"drinking water, expense",Seven-Eleven,cash,primary
+8-Feb-21,,29,"expense, consumer goods",Seven-Eleven,cash,primary
+8-Feb-21,,30,"fruit, expense",market,cash,primary
+8-Feb-21,,10,"food, dinner, expense",market,cash,primary
+9-Feb-21,,35,"food, lunch, expense",Seven-Eleven,cash,primary
+9-Feb-21,,7,"drinking water, expense",Seven-Eleven,cash,primary
+9-Feb-21,,19,"candy, expense",Seven-Eleven,cash,primary
+9-Feb-21,,35,"food, dinner, expense",Seven-Eleven,cash,primary
+10-Feb-21,,35,expense,restaurant,cash,primary
+10-Feb-21,,55,expense,shop,cash,tertiary
+10-Feb-21,,63,expense,SNRU,netbank,primary
+10-Feb-21,,10,expense,market,cash,primary
+10-Feb-21,,20,expense,market,cash,primary
+10-Feb-21,,30,expense,market,cash,secondary
+11-Feb-21,,19,expense,Seven-Eleven,cash,primary
+11-Feb-21,,7,expense,Seven-Eleven,cash,primary
+11-Feb-21,,20,expense,Seven-Eleven,cash,primary
+11-Feb-21,30,,income,SNRU,cash,tertiary
+12-Feb-21,,5,"food, expense",market,cash,primary
+12-Feb-21,,20,"food, dinner, expense",market,cash,primary
+12-Feb-21,,35,"food, expense",market,cash,primary
+12-Feb-21,,20,"expense, consumer goods",market,cash,primary
+12-Feb-21,,15,"drinking water, expense",apartment,cash,primary
+13-Feb-21,,30,"fruit, expense",market,cash,primary
+13-Feb-21,,5,"food, expense",market,cash,primary
+13-Feb-21,,20,"food, dinner, expense",market,cash,primary
+13-Feb-21,,35,"food, expense",market,cash,primary
+14-Feb-21,,40,"food, lunch, expense",restaurant,cash,primary
+15-Feb-21,,20,"breakfast, expense",Seven-Eleven,cash,primary
+15-Feb-21,,35,"food, lunch, expense",restaurant,cash,primary
+15-Feb-21,,25,"food, dinner, expense",market,cash,primary
+15-Feb-21,,35,expense,market,cash,primary
+16-Feb-21,,30,"food, lunch, expense",restaurant,cash,primary
+16-Feb-21,,10,"food, expense",none,cash,primary
+16-Feb-21,,32,"food, dinner, expense",Seven-Eleven,cash,primary
+16-Feb-21,,65,"food, expense",Seven-Eleven,cash,primary
+16-Feb-21,,100,"barber's fee, expense",none,cash,secondary
+16-Feb-21,,421,"education related fee, expense",online,netbank,tertiary
+16-Feb-21,,280,"education related fee, expense",online,netbank,tertiary
+16-Feb-21,,310,"education related fee, expense",online,netbank,tertiary
+17-Feb-21,,90,"fruit, expense",market,cash,primary
+17-Feb-21,,20,"food, dinner, expense",market,cash,primary
+18-Feb-21,,40,"lunch, expense",restaurant,cash,primary
+18-Feb-21,,89,"expense, consumer goods",LOTUS,cash,secondary
+18-Feb-21,,15,"food, expense",LOTUS,cash,primary
+18-Feb-21,,10,"expense, kitchenware",LOTUS,cash,primary
+19-Feb-21,,30,"food, expense",market,cash,primary
+19-Feb-21,,20,"food, expense",market,cash,primary
+19-Feb-21,,15,"food, dinner, expense",market,cash,primary
+20-Feb-21,,70,"food, breakfast, lunch, drinking water, expense",online,wallet,primary
+20-Feb-21,,20,"dinner, expense",market,cash,primary
+20-Feb-21,,35,"food, expense",market,cash,primary
+21-Feb-21,,299,"SIM cost, internet fee, expense",online,netbank,tertiary
+22-Feb-21,,55,"food, breakfast, expense",Seven-Eleven,wallet,primary
+22-Feb-21,,45,"food, lunch, expense",restaurant,cash,primary
+22-Feb-21,,15,"food, expense",LOTUS,cash,primary
+23-Feb-21,,35,"food, lunch, expense",restaurant,cash,primary
+23-Feb-21,,39,expense,Seven-Eleven,cash,primary
+23-Feb-21,,15,"expense, energy drink",Seven-Eleven,cash,primary
+23-Feb-21,,7,"drinking water, expense",Seven-Eleven,cash,primary
+23-Feb-21,,40,"food, dinner, expense",restaurant,cash,primary
+23-Feb-21,,5,expense,Seven-Eleven,cash,primary
+24-Feb-21,,10,expense,Seven-Eleven,cash,primary
+24-Feb-21,,35,expense,Seven-Eleven,cash,primary
+24-Feb-21,,19,expense,Seven-Eleven,cash,primary
+24-Feb-21,,15,expense,Seven-Eleven,cash,primary
+25-Feb-21,,85,"breakfast, expense, energy drink",online,cash,primary
+25-Feb-21,,27,"milk, expense",shop,cash,primary
+25-Feb-21,,22,"food, expense",shop,cash,primary
+25-Feb-21,,20,"expense, consumer goods",shop,cash,primary
+25-Feb-21,,30,"food, expense",shop,cash,primary
+25-Feb-21,,10,"expense, kitchenware",shop,cash,primary
+26-Feb-21,,20,"laundry fee, expense",apartment,cash,primary
+26-Feb-21,,55,"breakfast, expense",online,cash,primary
+26-Feb-21,,40,"expense, energy drink",online,cash,primary
+26-Feb-21,30000,,income,online,netbank,tertiary
+26-Feb-21,,29560,"computer, expense",none,netbank,tertiary
+26-Feb-21,,3595,"computer, expense",none,netbank,tertiary
+26-Feb-21,,20,"food, dinner, expense",market,cash,primary
+26-Feb-21,,35,"expense, eggs",market,cash,primary
+27-Feb-21,,110,"breakfast, lunch, expense, energy drink",online,wallet,primary
+27-Feb-21,2829,,income,online,netbank,tertiary
+27-Feb-21,,3595,expense,online,netbank,tertiary
+28-Feb-21,,120,"breakfast, lunch, expense",online,wallet,primary
+1-Mar-21,3000,,income,online,netbank,primary
+1-Mar-21,3000,,income,online,netbank,primary
+1-Mar-21,,7,"drinking water, expense",Seven-Eleven,cash,primary
+1-Mar-21,,20,"food, food, expense",Seven-Eleven,cash,primary
+1-Mar-21,,50,"food, dinner, expense",restaurant,cash,primary
+1-Mar-21,,239,"computer, expense",online,netbank,tertiary
+1-Mar-21,,765,"computer, expense",online,wallet,tertiary
+2-Mar-21,,50,"dinner, expense",restaurant,cash,primary
+3-Mar-21,,99,"dinner, expense",Seven-Eleven,cash,primary
+3-Mar-21,,20,"lunch, expense",Seven-Eleven,cash,primary
+4-Mar-21,,55,"dinner, expense",restaurant,cash,primary
+4-Mar-21,,40,"lunch, expense",restaurant,cash,primary
+4-Mar-21,,104,"expense, appliances",shop,cash,tertiary
+4-Mar-21,,14,expense,shop,cash,tertiary
+4-Mar-21,,60,"expense, appliances",shop,cash,tertiary
+4-Mar-21,,15,"education related fee, expense",shop,cash,tertiary
+4-Mar-21,,20,"food, expense",market,cash,primary
+4-Mar-21,,30,"fruit, expense",market,cash,primary
+5-Mar-21,,54,"breakfast, expense",Seven-Eleven,cash,primary
+5-Mar-21,,9,"drinking water, expense",Seven-Eleven,cash,primary
+5-Mar-21,,25,"expense, kitchenware",LOTUS,cash,primary
+5-Mar-21,,25,"expense, kitchenware",LOTUS,cash,primary
+5-Mar-21,,13,"expense, kitchenware",LOTUS,cash,primary
+5-Mar-21,,2655,expense,apartment,netbank,primary
+5-Mar-21,,40,"milk, expense",LOTUS,cash,primary
+6-Mar-21,,27,"food, expense",Seven-Eleven,wallet,
+6-Mar-21,,7,"drinking water, expense",Seven-Eleven,wallet,primary
+6-Mar-21,,10,"candy, expense",Seven-Eleven,wallet,primary
+6-Mar-21,,27,"food, expense",Seven-Eleven,wallet,primary
+6-Mar-21,,15,"expense, energy drink",Seven-Eleven,wallet,primary
+6-Mar-21,,54,"expense, consumer goods",Seven-Eleven,wallet,secondary
+6-Mar-21,,13,"milk, expense",Seven-Eleven,wallet,primary
+6-Mar-21,,45,"food, expense",Seven-Eleven,wallet,primary
+6-Mar-21,,360,"expense, entertainment",online,netbank,tertiary
+7-Mar-21,,9,"drinking water, expense",Seven-Eleven,cash,primary
+7-Mar-21,,25,expense,Seven-Eleven,cash,primary
+8-Mar-21,,100,"breakfast, lunch, expense",online,wallet,primary
+9-Mar-21,,34,"breakfast, drinking water, energy drink",Seven-Eleven,wallet,primary
+10-Mar-21,,54,"breakfast, drinking water",Seven-Eleven,wallet,primary
+10-Mar-21,,20,"food, expense",LOTUS,cash,primary
+10-Mar-21,,29,"expense, consumer goods",LOTUS,cash,tertiary
+10-Mar-21,,10,"expense, energy drink",LOTUS,cash,primary
+11-Mar-21,,63,"food, breakfast, lunch, expense",Seven-Eleven,wallet,primary
+11-Mar-21,,90,"car fare, expense",home,cash,primary
+12-Mar-21,,20,"fruit, expense",market,cash,primary
+13-Mar-21,,100,"food, expense",shop,cash,primary
+13-Mar-21,3000,,income,online,netbank,tertiary
+14-Mar-21,,90,"car fare, expense",none,cash,primary
+14-Mar-21,,257,"computer, expense",online,netbank,tertiary
+14-Mar-21,,852,"music, expense",online,netbank,tertiary
+14-Mar-21,,60,"car fare, expense",none,cash,secondary
+14-Mar-21,,130,"food, expense",online,wallet,primary
+14-Mar-21,,2290,"education related fee, expense",online,netbank,primary
+14-Mar-21,2000,,income,online,netbank,tertiary
+15-Mar-21,,70,"expense, top up",online,netbank,tertiary
+15-Mar-21,,307,expense,online,netbank,secondary
+15-Mar-21,,160,"food, education related fee, expense",Seven-Eleven,wallet,primary
+15-Mar-21,,40,"food, expense",restaurant,cash,primary
+15-Mar-21,,40,"food, expense",restaurant,cash,primary
+16-Mar-21,,27,"breakfast, expense",Seven-Eleven,wallet,primary
+16-Mar-21,,20,"expense, energy drink",Seven-Eleven,wallet,primary
+16-Mar-21,,7,"drinking water, expense",Seven-Eleven,wallet,primary
+16-Mar-21,,40,"lunch, expense",restaurant,cash,primary
+16-Mar-21,,40,"dinner, expense",restaurant,cash,primary
+17-Mar-21,,27,"dinner, expense",Seven-Eleven,wallet,primary
+17-Mar-21,,7,"drinking water, expense",Seven-Eleven,wallet,primary
+17-Mar-21,,40,"dinner, expense",restaurant,cash,primary
+17-Mar-21,100,,income,online,netbank,tertiary
+18-Mar-21,,60,"expense, consumer goods",Seven-Eleven,wallet,primary
+18-Mar-21,,35,"breakfast, expense",Seven-Eleven,wallet,primary
+18-Mar-21,,7,"drinking water, expense",Seven-Eleven,wallet,primary
+18-Mar-21,,12,"drinking water, expense",Seven-Eleven,wallet,
+18-Mar-21,,10,"food, expense",Seven-Eleven,wallet,primary
+18-Mar-21,,45,"lunch, expense",restaurant,cash,primary
+18-Mar-21,,20,"dinner, expense",market,cash,primary
+18-Mar-21,,10,"fruit juice, expense",market,cash,primary
+18-Mar-21,,25,"fruit, expense",market,cash,primary
+18-Mar-21,,20,"fruit, expense",market,cash,primary
+18-Mar-21,,50,"expense, consumer goods",market,cash,primary
+19-Mar-21,,30,"breakfast, lunch, expense",none,cash,primary
+19-Mar-21,,40,"expense, eggs",LOTUS,cash,primary
+19-Mar-21,,40,"expense, consumer goods",LOTUS,cash,secondary
+19-Mar-21,,35,"milk, expense",LOTUS,cash,primary
+19-Mar-21,,40,"laundry fee, expense",apartment,cash,primary
+19-Mar-21,,130,"lunch, dinner",online,wallet,primary
+20-Mar-21,,20,expense,none,cash,primary
+20-Mar-21,,12,expense,Seven-Eleven,cash,primary
+21-Mar-21,,85,expense,online,netbank,primary
+22-Mar-21,4663,,income,online,netbank,tertiary
+22-Mar-21,,348,"expense, consumer goods",online,netbank,secondary
+22-Mar-21,,828,"computer, expense",online,netbank,secondary
+22-Mar-21,,328,"expense, consumer goods",online,netbank,secondary
+22-Mar-21,,34,"lunch, expense",Seven-Eleven,wallet,primary
+22-Mar-21,,50,"fruit, expense",market,cash,primary
+22-Mar-21,,20,"fruit, expense",market,cash,primary
+22-Mar-21,,20,"fruit juice, expense",market,cash,primary
+22-Mar-21,,20,"dinner, expense",market,cash,primary
+23-Mar-21,,523,"internet fee, expense",online,netbank,secondary
+23-Mar-21,,29,"breakfast, drinking water, expense",Seven-Eleven,wallet,primary
+23-Mar-21,,40,"food, lunch, expense",restaurant,cash,primary
+23-Mar-21,,29,"food, drinking water, expense",Seven-Eleven,wallet,primary
+23-Mar-21,,40,"dinner, expense",restaurant,cash,primary
+24-Mar-21,,40,expense,restaurant,cash,primary
+25-Mar-21,,39,expense,Seven-Eleven,wallet,primary
+25-Mar-21,,40,expense,restaurant,cash,primary
+26-Mar-21,,130,expense,Seven-Eleven,cash,primary
+26-Mar-21,,40,expense,Seven-Eleven,cash,primary
+26-Mar-21,,7,expense,Seven-Eleven,cash,primary
+26-Mar-21,,19,expense,Seven-Eleven,cash,primary
+27-Mar-21,,80,"breakfast, lunch, expense",online,cash,primary
+28-Mar-21,,40,"breakfast, lunch, expense",restaurant,cash,primary
+29-Mar-21,,34,"breakfast, expense",Seven-Eleven,cash,primary
+30-Mar-21,,40,"lunch, expense",restaurant,cash,primary
+30-Mar-21,,34,"breakfast, expense",Seven-Eleven,cash,primary
+30-Mar-21,,40,"dinner, expense",restaurant,cash,primary
+30-Mar-21,,150,"expense, games",online,wallet,tertiary
+31-Mar-21,,42,"breakfast, expense",Seven-Eleven,cash,primary
+31-Mar-21,,35,"lunch, expense",restaurant,cash,primary
+31-Mar-21,,10,"fruit juice, expense",market,cash,primary
+31-Mar-21,,30,"dinner, expense",market,cash,primary
