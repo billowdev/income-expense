@@ -1,11 +1,11 @@
-### My-Datasets-Income-Expense
+### Datasets-Income-Expense
 #### For fundamental data science 
 #### Simple Datasets 
 
 
 #### Repo. Directory Structure
 
-    ├── Lacakp-Datasets-Income-Expense
+    ├── Datasets-Income-Expense
     │   ├── English
     │       ├── Income_Expense_lacakp_Q1_2564_Eng.csv 
     │       └── Income_Expense_lacakp_Q2_2564_Eng.csv
